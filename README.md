@@ -4,9 +4,9 @@
 
 ## Emil Joseph
 
-### GH Repo Link: https://github.com/ejoseph89/cpnt262-a3
+### [GH Repo Link](https://github.com/ejoseph89/cpnt262-a3)
 
-### Heroku Link: https://cpnt262-a3-ejoseph89.herokuapp.com/
+### [Heroku Link](https://cpnt262-a3-ejoseph89.herokuapp.com/)
 
 ## Attributions
 
@@ -14,7 +14,7 @@
 
 ### Instructor's starter code
 
-### Binge watched: https://www.youtube.com/playlist?list=PL4cUxeGkcC9jsz4LDYc6kv3ymONOKxwBU
+### Binge watched [Net Ninja](https://www.youtube.com/playlist?list=PL4cUxeGkcC9jsz4LDYc6kv3ymONOKxwBU)
 
 ### Comments
 
